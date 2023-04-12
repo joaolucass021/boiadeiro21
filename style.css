@@ -4,8 +4,8 @@
 }
 
 .cabecalho{
-    background-color: rgb(99, 99, 99);
-    color: rgb(174, 0, 255);
+    background-color: blueviolet;
+    color: white;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -23,4 +23,12 @@
 }
 .escola-imagem{
     width: 25%;
+}
+
+.escola-titulo{
+    padding: 12px 0;
+}
+
+.escola-div-conteudo{
+    width: 35px;
 }
